@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 import pickle
 import numpy as np
-from rdkit import Chem
-from rdkit.Chem import AllChem
 import pandas as pd
 
 def preprocess_and_predict(drug_data):
