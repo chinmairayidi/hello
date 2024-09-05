@@ -3,3 +3,4 @@ streamlit
 keras
 tensorflow
 distutils
+rdkit
