@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+from rdkit import Chem
+from rdkit.Chem import AllChem
 from cox_DLL import preprocess_and_predict  # Ensure this matches the filename and function name
 
 # Define the Streamlit app
