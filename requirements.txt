@@ -2,5 +2,3 @@ pandas
 streamlit
 keras
 tensorflow
-distutils
-rdkit
