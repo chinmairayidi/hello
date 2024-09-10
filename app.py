@@ -3,7 +3,7 @@ import pandas as pd
 import rdkit
 from rdkit import Chem
 from rdkit.Chem import AllChem
-from cox_DLL import preprocess_and_predict  # Ensure this matches the filename and function name
+from cox_DLL import preprocess_and_predict # Ensure this matches the filename and function name
 
 # Define the Streamlit app
 st.title("Deep Learning Model Predictor")
