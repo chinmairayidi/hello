@@ -2,4 +2,5 @@ pandas
 streamlit
 keras
 rdkit
+Allchem
 tensorflow
